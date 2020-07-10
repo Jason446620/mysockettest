@@ -1,0 +1,20 @@
+{
+  "name": "jasonsocket",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jason446620 <panshubei@outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
