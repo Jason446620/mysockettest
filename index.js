@@ -25,4 +25,4 @@ io.on('connection', function(client) {
   
 });
 
-server.listen(443);
+server.listen(80);
